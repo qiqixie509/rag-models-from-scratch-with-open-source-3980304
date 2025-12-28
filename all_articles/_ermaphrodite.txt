@@ -1,0 +1,116 @@
+A hermaphrodite () is a sexually reproducing organism that produces both male and female gametes. Animal species in which individuals are either male or female are gonochoric, which is the opposite of hermaphroditic.
+The individuals of many taxonomic groups of animals, primarily invertebrates, are hermaphrodites, capable of producing viable gametes of both sexes. In the great majority of tunicates, mollusks, and earthworms, hermaphroditism is a normal condition, enabling a form of sexual reproduction in which either partner can act as the female or male. Hermaphroditism is also found in some fish species, but is rare in other vertebrate groups. Most hermaphroditic species exhibit some degree of self-fertilization. The distribution of self-fertilization rates among animals is similar to that of plants, suggesting that similar pressures are operating to direct the evolution of selfing in animals and plants.
+A rough estimate of the number of hermaphroditic animal species is 65,000, about 5% of all animal species, or 33% excluding insects. Insects are almost exclusively gonochoric. There are no known hermaphroditic species among mammals or birds.
+About 94% of flowering plant species are either hermaphroditic (all flowers produce both male and female gametes) or monoecious, where both male and female flowers occur on the same plant. There are also mixed breeding systems, in both plants and animals, where hermaphrodite individuals coexist with males (called androdioecy) or with females (called gynodioecy), or all three exist in the same species (called trioecy). Sometimes, both male and hermaphrodite flowers occur on the same plant (andromonoecy) or both female and hermaphrodite flowers occur on the same plant (gynomonoecy).
+Hermaphrodism is not to be confused with ovotesticular syndrome in mammals, which is a separate and unrelated phenomenon. While people with the condition were previously called "true hermaphrodites" in medical literature, this usage is now considered to be outdated as of 2006 and misleading, as people with ovotesticular syndrome do not have functional sets of both male and female organs.
+
+
+== Etymology ==
+The term hermaphrodite derives from the Latin: hermaphroditus, from Ancient Greek: ἑρμαφρόδιτος, romanized: hermaphroditos, which derives from Hermaphroditus (Ἑρμαφρόδιτος), the child of Hermes and Aphrodite in Greek mythology. According to Ovid, he fused with the nymph Salmacis resulting in one individual possessing physical traits of male and female sexes. According to the earlier Diodorus Siculus, he was born with a physical body combining male and female sexes. The word hermaphrodite entered the English lexicon as early as the late fourteenth century.
+
+
+== Animals ==
+
+
+=== Sequential hermaphrodites ===
+
+Sequential hermaphrodites (dichogamy) occur in species in which the individual first develops as one sex, but can later change into the opposite sex. (Definitions differ on whether sequential hermaphroditism encompasses serial hermaphroditism; for authors who exclude serial hermaphroditism, a sequential hermaphrodite is also stipulated to only change sex once.) This contrasts with simultaneous hermaphrodites, in which an individual possesses fully functional male and female gametes. Sequential hermaphroditism is common in fish (particularly teleost fish) and many gastropods (such as the common slipper shell). Sequential hermaphroditism can best be understood in terms of behavioral ecology and evolutionary life history theory, as described in the size-advantage mode first proposed by Michael T. Ghiselin which states that if an individual of a certain sex could significantly increase its reproductive success after reaching a certain size, it would be to their advantage to switch to that sex.
+Sequential hermaphrodites can be divided into three broad categories:
+
+Protandry: Where an organism develops as a male, and then changes sex to a female.
+Example: The clownfish (genus Amphiprion) are colorful reef fish found living in symbiosis with sea anemones. Generally one anemone contains a 'harem', consisting of a large female, a smaller reproductive male, and even smaller non-reproductive males. If the female is removed, the reproductive male will change sex and the largest of the non-reproductive males will mature and become reproductive. It has been shown that fishing pressure can change when the switch from male to female occurs, since fishermen usually prefer to catch the larger fish. The populations are generally changing sex at a smaller size, due to natural selection.
+Protogyny: Where the organism develops as a female, and then changes sex to a male.
+Example: Wrasses (Family Labridae) are a group of reef fish in which protogyny is common. Wrasses also have an uncommon life history strategy, which is termed diandry (literally, two males). In these species, two male morphs exists: an initial phase male and a terminal phase male. Initial phase males do not look like males and spawn in groups with females. They are not territorial. They are, perhaps, female mimics (which is why they are found swimming in group with females). Terminal phase males are territorial and have a distinctively bright coloration. Individuals are born as males or females, but if they are born males, they are not born as terminal phase males. Females and initial phase males can become terminal phase males. Usually, the most dominant female or initial phase male replaces any terminal phase male when those males die or abandon the group.
+Bidirectional sex changers: Where an organism has female and male reproductive organs, but may act either as a female or as a male during different stages in life.
+Example: Lythrypnus dalli (Family Lythrypnus) are a group of coral reef fish in which bidirectional sex change occurs. Once a social hierarchy is established a fish changes sex according to its social status, regardless of the initial sex, based on a simple principle: if the fish expresses subordinate behavior then it changes its sex to female, and if the fish expresses dominant or non-dominant superior behavior then it changes its sex to male.
+Dichogamy can have both conservation-related implications for humans, as mentioned above, as well as economic implications. For instance, groupers are favoured fish for eating in many Asian countries and are often aquacultured. Since the adults take several years to change from female to male, the broodstock are extremely valuable individuals.
+
+
+=== Simultaneous hermaphrodites ===
+
+Simultaneous hermaphrodites (or homogamous hermaphrodites) are individuals in which both male and female sexual organs are present and functional at the same time. Self-fertilization often occurs.
+
+Pulmonate land snails and land slugs are perhaps the best-known kinds of simultaneous hermaphrodites, and are the most widespread of terrestrial animals possessing this sexual polymorphism. Sexual material is exchanged between both animals via spermatophores, and is then stored in the spermatheca. After exchange of spermatozoa, both animals will lay fertilized eggs after a period of gestation. The eggs will proceed to hatch after a development period. Snails typically reproduce from early spring through late autumn.
+Banana slugs are an example of a hermaphroditic gastropod. Mating with a partner is more desirable biologically than self-fertilization, as the genetic material of the resultant offspring is varied, but if mating with a partner is not possible, self-fertilization is practiced. The male sexual organ of an adult banana slug is quite large in proportion to its size, as well as compared to the female organ. It is possible for banana slugs, while mating, to become stuck together. If a substantial amount of wiggling fails to separate them, the male organ will be bitten off (using the slug's radula), see apophallation. If a banana slug has lost its male sexual organ, it can still mate as a female, making hermaphroditism a valuable adaptation.
+The species of colourful sea slugs Goniobranchus reticulatus is hermaphroditic, with both male and female organs active at the same time during copulation. After mating, the external portion of the penis detaches, but is able to regrow within 24 hours.
+Earthworms are another example of a simultaneous hermaphrodite. Although they possess ovaries and testes, they have a protective mechanism against self-fertilization. Sexual reproduction occurs when two worms meet and exchange gametes, copulating on damp nights during warm seasons.
+The free-living hermaphroditic nematode Caenorhabditis elegans reproduces primarily by self-fertilization, but infrequent out-crossing events occur at a rate of approximately 1%.
+Hamlets do not practice self-fertilization, but a pair will mate multiple times over several nights, taking turns between which one acts as the male and which acts as the female.
+The mangrove killifish (Kryptolebias marmoratus) are simultaneous hermaphrodites, producing both eggs and sperm and routinely reproducing by self-fertilization. Each individual normally fertilizes itself when an egg and sperm produced by an internal organ unite inside the fish's body. This species is also regarded as the only known vertebrate species that can reproduce by self fertilization.
+
+
+=== Pseudohermaphroditism ===
+
+When spotted hyenas were first scientifically observed by explorers, they were thought to be hermaphrodites. Early observations of wild spotted hyenas led researchers to believe that all spotted hyenas, male or female, were born with what looked to be a penis. A female spotted hyena's apparent penis is in fact an enlarged clitoris, which contains an external birth canal. It can be difficult to determine the sex of spotted hyenas until sexual maturity, when they may become pregnant. When a female spotted hyena gives birth, she passes the cub through the cervix internally, but then passes it out through the elongated clitoris.
+
+
+== Plants ==
+
+The term hermaphrodite is used in botany to describe, for example, a perfect flower that has both staminate (male, pollen-producing) and carpellate (female, ovule-producing) parts. The overwhelming majority of flowering plant species are hermaphroditic.
+
+
+=== Monoecy ===
+Flowering plant species with separate, imperfect, male and female flowers on the same individual are called monoecious. Monoecy only occurs in about 7% of flowering plant species. Monoecious plants are often referred to as hermaphroditic because they produce both male and female gametes. However, the individual flowers are not hermaphroditic if they only produce gametes of one sex. 65% of gymnosperm species are dioecious, but conifers are almost all monoecious. Some plants can change their sex throughout their lifetime, a phenomenon called sequential hermaphroditism.
+
+
+=== Andromonoecy ===
+In andromonoecious species, the plants produce perfect (hermaphrodite) flowers and separate fertile male flowers that are sterile as female. Andromonoecy occurs in about 4000 species of flowering plants (2% of flowering plants).
+
+
+=== Gynomonoecy ===
+In gynomonoecious species, the plants produce hermaphrodite flowers and separate male-sterile pistillate flowers. One example is the meadow saxifrage, Saxifraga granulata. Charles Darwin gave several other examples in his 1877 book "The Different Forms of Flowers on Plants of the Same Species".
+About 57% of moss species and 68% of liverworts are unisexual, meaning that their gametophytes produce either male or female gametes, but not both.
+Sequential hermaphroditism is common in bryophytes and some vascular plants.
+
+
+== Use regarding humans ==
+
+Historically, the term hermaphrodite was used in law to refer to people whose sex was in doubt. The 12th-century Decretum Gratiani states that "Whether an hermaphrodite may witness a testament, depends on which sex prevails" ("Hermafroditus an ad testamentum adhiberi possit, qualitas sexus incalescentis ostendit.").
+Alexander ab Alexandro (1461–1523) stated, using the term hermaphrodite, that the people who bore the sexes of both man and woman were regarded by the Athenians and the Romans as monsters, and thrown into the sea at Athens and into the Tiber at Rome. Similarly, the 17th-century English jurist and judge Edward Coke (Lord Coke), wrote in his Institutes of the Lawes of England on laws of succession stating, "Every heire is either a male, a female, or an hermaphrodite, that is both male and female. And an hermaphrodite (which is also called Androgynus) shall be heire, either as male or female, according to that kind of sexe which doth prevaile."
+During the Victorian era, medical authors attempted to ascertain whether or not humans could be hermaphrodites, adopting a precise biological definition to the term. From that period until the early 21st century, individuals with ovotesticular syndrome were termed true hermaphrodites if their gonadal tissue contained both testicular and ovarian tissue, and pseudohermaphrodites if their external appearance (phenotype) differed from sex expected from internal gonads. This language has fallen out of favor due to misconceptions and stigma associated with the terms, and a shift to nomenclature based on genetics.
+The term "intersex" described a wide variety of combinations of what are ambiguous biological characteristics. Intersex biology may include, for example, ambiguous-looking external genitalia, karyotypes that include mixed XX and XY chromosome pairs (46XX/46XY, 46XX/47XXY or 45X/XY mosaic). Clinically, medicine currently uses the terminology "disorders of sex development"  (also known as variations in sex characteristics.) This is particularly significant because of the relationship between medical terminology and medical intervention.
+Intersex civil society organizations, and many human rights institutions, have criticized medical interventions designed to make bodies more typically male or female.
+In some cases, variations in sex characteristics are caused by unusual levels of sex hormones, which may be the result of an atypical set of sex chromosomes. One common cause of variations in sex characteristics traits is the crossing over of the testis-determining factor (SRY) from the Y chromosome to the X chromosome during meiosis. The SRY is then activated in only certain areas, causing development of testes in some areas by beginning a series of events starting with the upregulation of the transcription factor (SOX9), and in other areas not being active (causing the growth of ovarian tissues). Thus, testicular and ovarian tissues will both be present in the same individual. Of all total recorded cases of ovotesticular DSD, in only 8% percent of all cases was SRY present, leaving the rest of cases that could be explained to other or less common causes, with the vast majority simply being currently unexplainable.
+Fetuses were previously thought to be phenotypically female before the sexual differentiation stage; however, this is now known to be incorrect, as humans are simply undifferentiated before this stage and possess a paramesonephric duct, a mesonephric duct, and a genital tubercle.
+
+
+== Evolution ==
+
+The evolution of anisogamy may have contributed to the evolution of simultaneous hermaphroditism and sequential hermaphroditism, it remains unclear if the evolution of anisogamy first led to hermaphroditism or gonochorism.  
+A 2023 study argued that hermaphroditism can evolve directly from mating types under certain circumstances, such as if the fertilization is well organized and the average size of groups is small. Simultaneous hermaphroditism that exclusively reproduces through self-fertilization has evolved many times in plants and animals, but it might not last long evolutionarily.
+
+
+=== In animals ===
+Joan Roughgarden and Priya Iyer argued that the last common ancestor for animals was hermaphroditic and that transitions from hermaphroditism to gonochorism were more numerous than the reverse. Other scientists have criticized this argument; saying it's based on paraphyletic Spiralia, assignments of sexual modes for the phylum level than the species level, and methods exclusively based on maximum parsimony.
+Hermaphroditism is polyphyletic in invertebrates where it evolved from gonochorism and gonochorism is also ancestral to hermaphroditic fishes. According to Nelson Çabej simultaneous hermaphroditism in animals most likely evolved due to a limited number of mating partners.
+
+
+=== In plants ===
+
+It is widely accepted that the first vascular plants were outcrossing hermaphrodites. In flowering plants, hermaphroditism is ancestral to dioecy.
+Hermaphroditism in plants may promote self fertilization in pioneer populations. However, plants have evolved multiple different mechanisms to avoid self-fertilization in hermaphrodites, including sequential hermaphroditism, molecular recognition systems and mechanical or morphological mechanisms such as heterostyly.
+
+
+== See also ==
+Asexual reproduction
+Trioecy
+Androgyny
+Futanari
+Gonochorism
+Gynandromorph
+Self-pollination
+Self-fertilization
+
+
+== References ==
+
+
+== Further reading ==
+
+
+== External links ==
+
+Britannica Online Encyclopedia: hermaphroditism (biology)
+Current Biology – Gender trading in a hermaphrodite
+The Evolution of Self-Fertile Hermaphroditism: The Fog Is Clearing Archived 2014-01-16 at the Wayback Machine
+"Born True Hermaphrodite – Pictorial Profile", about Lynn Edward Harris

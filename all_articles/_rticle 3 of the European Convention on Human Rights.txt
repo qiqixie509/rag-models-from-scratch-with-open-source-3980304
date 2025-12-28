@@ -1,0 +1,108 @@
+Article 3 of the European Convention on Human Rights prohibits torture, and "inhuman or degrading treatment or punishment".
+
+Article 3 – Prohibition of torture
+
+No one shall be subjected to torture or to inhuman or degrading treatment or punishment.
+
+
+== An absolute right ==
+Article 3 is an absolute right. The right is unqualified and cannot be balanced against the rights and needs of other people or the greater public interest.
+Article 15(2) of the European Convention on Human Rights makes no provision for derogation from Article 3, even in times of war or other public emergency threatening the life of the nation.
+
+
+== Positive obligation ==
+There is a positive obligation on states to take action to ensure that individuals are protected from torture, inhuman or degrading treatment or punishment. 
+In the case of A v UK [1998] the law in the United Kingdom on lawful chastisement of children was held to breach Article 3. The European Court of Human Rights (ECtHR) believed that the current law provided inadequate protection to children suffering from different types of degrading punishment. As a result, the UK amended the law relating to chastisement with the Children Act 2004.
+There is also a duty to carry out an investigation (Sevtap Vezenedaroglu v Turkey [2000]).
+
+
+== Living instrument ==
+Article 3 is a living instrument. In Selmouni v France [1999] the EctHR articulated this to mean that it [Article 3] "must be interpreted in the light of present-day conditions".
+As a consequence of this, the standards of torture, inhuman and degrading treatment or punishment are open to change over time, meaning that certain acts that were not previously considered as torture may now be considered so. 
+
+
+== Torture ==
+
+Torture is the process of causing deliberate and serious physical or mental harm to another individual, usually exercised with the objective of gaining information or punishing.
+In Aksoy v Turkey (1997) the Court found Turkey guilty of torture in 1996 in the case of a detainee who was suspended by his arms while his hands were tied behind his back. The ECtHR decided that the techniques used were of "such a serious and cruel nature" that it could only have been described as torture.
+In the case of Ireland v United Kingdom [1978], the ECtHR was of the view that torture incorporates inhuman and degrading treatment but differs in the intensity and suffering inflicted. 
+
+
+== Inhuman or degrading treatment or punishment ==
+Inhuman and degrading treatment or punishment can include serious physical violence or psychological abuse. The humiliation of an individual that arouses fear or demonstrates a lack of respect for their human dignity could also be considered degrading for the purposes of Article 3.
+This provision usually applies to cases of severe police violence and poor conditions in detention.
+
+
+=== Ireland v. United Kingdom ===
+In Ireland v. United Kingdom (1979–1980) the Court ruled that the five techniques developed by the United Kingdom (wall-standing, hooding, subjection to noise, deprivation of sleep, and deprivation of food and drink), as used against fourteen detainees in Northern Ireland by the United Kingdom, were "inhuman and degrading" and breached the European Convention on Human Rights, but did not amount to "torture". This was mainly due to the intense mental suffering and feelings of fear and inferiority that such techniques would have caused the suspects. 
+In 2014, after new information was uncovered that showed the decision to use the five techniques in Northern Ireland in 1971–1972 had been taken by British ministers, the Irish Government asked the European Court of Human Rights to review its judgement. In 2018, by six votes to one, the Court declined.
+
+
+=== Budina v. Russia ===
+In Budina v. Russia (18 June 2009), the ECtHR exercised a cautious approach to addressing economic and social rights under the ECHR, and highlighted the limits of state obligations under the ECHR regarding social welfare provisions. During the case, Budina argued that her extremely low pension from the Russian state amounted to inhumane and degrading treatment. Budina further argued that the Russian government had failed to meet the following obligations as outlined in the Constitution of the Russian Federation:
+
+Articles 7 and 39: Establishing the state's duty to ensure social security and a dignified standard of living for its citizens.
+Article 39: Guaranteeing social security in old age.
+Article 2 and Article 45: Highlighting the state's role in protecting human dignity and ensuring that individuals can exercise their rights. Budina's argument implicitly suggested that her low pension undermined her dignity and failed to protect her adequately as mandated by these specific provisions.
+Despite such claims, the ECtHR found Budina's case to be inadmissible. Although it agreed that the pension was indeed low, the ECtHR maintained that it was not severe enough to constitute inhumane or degrading treatment under Article 3. Nevertheless, the ECtHR acknowledged that extreme poverty could, in fact, raise questions of concern under Article 3. 
+This decision highlights the ECtHR's caution in maintaining limits on state social welfare obligations in primarily economic and social contexts. Consequently, it is a significant reference point for understanding how the ECtHR might approach future claims related to economic and social rights, especially a growing support for legal combat against job displacement due to automation and inadequate state support.
+
+
+== Healthcare and Article 3 ==
+The failure to provide adequate healthcare can amount to a violation of Article 3.
+In McGlinchey v United Kingdom [2003] Judith McGlinchey suffered from heroin withdrawal whilst in prison. It was alleged that the medical staff failed to properly monitor Ms McGlinchey, withheld medication and left her to lie in her vomit. The failure of the prison staff to provide proper medical treatment to an inmate was held to be a breach of Article 3. Similarly, the failure to transfer a prisoner to hospital for treatment and inadequate conditions of prison cells can also amount to a breach of Article 3, as established in Ciorap v Moldova [2010].
+In D v UK [1997] an HIV positive man, who was a Saint Kitts national, had finished serving time in a UK prison and was awaiting deportation. However, he applied to remain in the UK on the grounds that his medical treatment would not be available upon his return. The ECtHR held that, given this exceptional circumstance, his deportation would violate Article 3. The lack of medical facilities in his home country would constitute inhuman and degrading treatment.
+However, the case of Hristozov v Bulgaria [2012] illustrates that the prevention of access to experimental cancer drugs would not amount to a violation of Article 3. 
+
+
+== Deportation and Article 3 ==
+A state can breach Article 3 by extraditing or deporting an individual to a country where, upon their return, they might be subject to torture, inhuman or degrading treatment or punishment.
+In Chahal v United Kingdom [1996] the United Kingdom had initiated deportation proceedings, for national security reasons, on an Indian citizen. Mr Chahal had associations with the Sikh separatist movement and there was substantial evidence that upon his return to India, he would be subjected to treatment contrary to Article 3. On this basis, the ECtHR held that, as the assurances of Mr Chahal's safety from the Indian government were not convincing, his deportation would violate Article 3.
+In Soering v United Kingdom [1989] the UK government attempted to extradite a German national, who was wanted by the state of Virginia for the murder of his partner's parents, to the USA. It was held that upon his return, Mr Soering would have been subject to inhuman and degrading treatment or punishment in the form of the 'death row phenomenon', whereby a person sentenced to capital punishment suffers years of mental torment awaiting their execution. The UK was accordingly found in breach of Article 3.
+
+
+== Additional protections ==
+All parties to the ECHR are also party to the United Nations Convention against Torture and other cruel or inhuman, degrading treatment or punishment (1987).
+All members of the Council of Europe are also party to the European Convention for the Prevention of Torture and Inhuman or Degrading Treatment or Punishment (1987).
+Parties may have domestic laws criminalising torture, distinct from general crimes against the person. For example in the UK, s. 134 of the Criminal Justice Act 1988 makes it a criminal offence for a public officer or professional acting in an official capacity to commit torture or inflict severe pain or suffering on another.
+
+
+== Other cases ==
+
+
+=== Life imprisonment ===
+On 9 July 2013, UK prisoner Jeremy Bamber won an appeal to the European Court of Human Rights that whole life imprisonment (with no chance of parole) was in contravention of Article 3 of the European Convention on Human Rights. The Grand Chamber voted overwhelmingly in favour of the decision by 16–1, meaning that the UK government was forced to review 49 instances of whole life sentences.
+
+
+=== Ataun Rojo v Spain ===
+In this case, which ran jointly with Etxebarria Caballero v Spain in 2014, the court held unanimously that there had been "a violation of Article 3 (prohibition of inhuman or degrading treatment) of the European Convention on Human Rights on account of the lack of an effective investigation into the applicants' allegations of ill-treatment".
+
+
+=== M.C. v Bulgaria ===
+According to the applicant (a 14 year old Bulgarian national), two men raped her on July 31st and August 1st, 1995. Bulgarian law enforcement officers, however, could not find sufficient evidence indicating that the applicant was forced into having sex with the two men.They closed their investigation. The applicant then sued the Bulgarian government for damages at the European Court of Human Rights.
+The Court ruled that sexual intercourse can be classified as non-consensual even in the absence of physical force if the act took place within coercive circumstances. Because Bulgarian national law required that a victim demonstrate physical resistance to sexual advances made onto them, it was deemed by the ECHR as being outdated and out of touch with international norms and standards. In short, Bulgaria violated Articles 3 and 8 of the Convention. Damages were awarded to the applicant.
+
+
+=== Šečić v Croatia ===
+In May 2007 the court reiterated the obligation to secure rights and freedoms. States must take measures to prevent ill-treatment, including ill-treatment administered by private individuals. States must also investigate those ill-treatments.
+
+
+== See also ==
+Climate change litigation
+Cruel and unusual punishment
+United Nations Convention Against Torture
+European Convention for the Prevention of Torture and Inhuman or Degrading Treatment or Punishment
+
+
+== References ==
+kar.kent.ac.uk University of Kent, Kent Academic Repository, "Extending the Reach of Human Rights to Encompass Victims of Rape: M.C. v. Bulgaria"
+
+
+== Further reading ==
+Mavronicola, Natasa (2021). Torture, Inhumanity and Degradation under Article 3 of the ECHR: Absolute Rights and Absolute Wrongs. Bloomsbury Publishing. ISBN 978-1-5099-0306-1.
+
+
+== External links ==
+A guide to the implementation of Article 3 of the European Convention on Human Rights (PDF)
+Text of ruling
+Permanent link to case (using WebCite)

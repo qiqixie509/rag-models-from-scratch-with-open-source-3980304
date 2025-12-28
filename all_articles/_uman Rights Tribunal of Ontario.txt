@@ -1,0 +1,151 @@
+The Human Rights Tribunal of Ontario (French: Tribunal des droits de la personne de l’Ontario) is an administrative tribunal in the Canadian province of Ontario that hears and determines applications brought under the Ontario Human Rights Code, the provincial statute that sets out human rights in Ontario.
+It is one of the 13 adjudicative tribunals overseen by the Ministry of the Attorney General that make up Tribunals Ontario. Any person who believes they have been discriminated against under the Human Rights Code may bring an application to the Tribunal.
+
+
+== History ==
+The Ontario Human Rights Code was the first law of its kind in Canada. It took effect on June 15, 1962, bringing together various laws dealing with different kinds of discrimination, and adding some new protections.
+The Ontario Human Rights Code of 1962 replaced the province's existing anti-discrimination legislation, including:
+
+Fair Employment Practices Act, 1951 which prohibited discrimination based on race and religion in employment;
+Female Employee's Fair Remuneration Act, 1951 which prohibited an employer from paying a female employee less money for the same work done by a man in the same establishment
+Fair Accommodation Practices Act, 1954 which prohibited discrimination in public places on racial, religious or ethnic grounds;
+Ontario Anti-Discrimination Commission Act, 1958 which created a commission to administer the above acts and develop educational programs;
+The Ontario Human Rights Commission was created to administer the Ontario Human Rights Code.
+
+
+== Current structure ==
+
+
+=== Ontario Human Rights Commission ("OHRC") ===
+
+Since June 30, 2008 all new complaints of discrimination are filed with the Human Rights Tribunal of Ontario. However, the OHRC has the right to be informed of all applications before the HRTO and receives copies of all applications and responses.
+In matters affecting broad public interest, the OHRC may take its own cases to the Tribunal or intervene in human rights cases before the Tribunal. The OHRC also develops policies and provides targeted public education, monitors human rights, does research and analysis, and conducts human rights inquiries.
+
+
+=== Human Rights Legal Support Centre ===
+The centre offers human rights legal services to individuals who file applications with the Tribunal. Services may include legal assistance in filing applications, providing advice, and legal representation at mediations and hearings.
+The centre does not provide legal services to respondents and only represents 12% of applicants before the Tribunal. Services are prioritized, especially full representation, to clients who are particularly disadvantaged and who would have difficulty navigating the human rights system without assistance. Applicants with unmeritorious cases or who could otherwise afford legal representation are not represented.
+
+
+=== Human Rights Tribunal of Ontario ("HRTO") ===
+This administrative tribunal determines whether or not an applicant's rights have been violated. The tribunal is aimed at providing quick and direct access for applicants and a fair dispute resolution process for all parties, including respondents.
+The tribunal is able to handle a large volume of complaints without accumulating a backlog, applications are processed quickly, there is high level of transparency to the tribunal's decision-making. Transparency is achieved through the public availability of procedural and substantive written decisions. There is a significantly greater volume of final decisions decided on their merits; the tribunal's rulings on discrimination appear impartial; and public interest remedies are routinely awarded where discrimination is found.
+Criticisms of the tribunal include:
+
+Unnecessary complexity in forms
+Insufficient use of mediation
+Low general damage awards
+Complex procedures and processes
+
+
+== Process ==
+An individual who has experienced discrimination may file a claim with the Human Rights Tribunal of Ontario. Applicants to HRTO may be eligible for legal assistance from the Human Rights Legal Support Centre. The parties can choose to first attempt to resolve the matter through mediation. If the mediation is unsuccessful or if the parties choose not to attempt mediation then a preliminary hearing may be ordered if, for example, there is a question as to whether HRTO has jurisdiction to decide the allegations. A summary hearing may be ordered if there appears to be no reasonable prospect that the application can succeed.
+Hearings before HRTO are legal proceedings. Within 21 days after receiving the notice of hearing, the parties must provide each other with disclosure, with any documents that are relevant to the application with the other party. No later than 45 days before the hearing date, parties must:
+
+Send the other party a list of witnesses, a statement of each witness' intended evidence, and a list of documents that will be presented at the hearing. If documents have already been provided to the other party, they do not need to be sent again.
+Send HRTO the witness list, witness statements, and copies of all documents that will be used at the hearing.
+Prior to the hearing, the adjudicator will give the parties the option of trying mediation/adjudication. If they agree, the adjudicator will work with them to attempt to resolve the dispute through mediation. If it is not successful, the hearing will proceed with the same adjudicator, who will not consider anything heard or said in the mediation. The adjudicator will hear the evidence of both parties before making a decision.
+Although the Ontario Human Rights Code says that HRTO's decisions are final and binding on the parties, HRTO may agree to reconsider a final decision if:
+
+a party has new facts that were not available at the time of the hearing which could change the result of the HRTO's decision
+a party did not receive notice of the hearing and was unable to participate, through no fault of the party
+the decision conflicts with the HRTO's procedure or case law and involves a matter of general or public importance
+There is no right as a matter of law to appeal a HRTO decision. However, under limited circumstances, a dissatisfied party may make a request for judicial review to the Ontario Superior Court of Justice. Judicial review will only be granted if the court is satisfied that the decision is unreasonable. This does not mean that the court merely thinks that HRTO could or should have decided differently.
+
+
+== Standard and burden of proof ==
+In cases before the Ontario Human Rights Tribunal, the ultimate standard of proof is the civil standard, which is on a balance of probabilities or "more likely than not". This in comparison to the standard of proof that applies in criminal cases, which is guilt beyond a reasonable doubt. The burden of proof rests on the party making the allegations.
+As in criminal cases, it is possible to found a finding on significant or wholly circumstantial evidence. In circumstantial cases, well-established principles apply in the human rights context:
+
+Once a prima facie case of discrimination has been established, the burden shifts to the respondent to provide a rational explanation which is not discriminatory.
+It is not sufficient to rebut an inference of discrimination that the respondent is able to suggest just any rational alternative explanation; the respondent must offer an explanation which is credible on all the evidence.
+A complainant is not required to establish that the respondent's actions lead to no other conclusion but that discrimination was the basis for the decision at issue in a given case.
+There is no requirement that, the respondents' conduct, to be found discriminatory, must be consistent with the allegation of discrimination and inconsistent with any other rational explanation.
+The ultimate issue is whether an inference of discrimination is more probable from the evidence than the actual explanations offered by the respondent.
+
+
+== Notable rulings and case law ==
+Due to restructuring in 2008, all applications made after June 30, 2008 are filed with the Ontario Human Rights Tribunal; prior to that date, applications were filed with and heard by the Ontario Human Rights Commission.
+
+
+=== Public services, goods, facilities ===
+The Ontario Human Rights Code provides that "[e]very person has a right to equal treatment with respect to services, goods and facilities, without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status or disability." The terms "service", "good", and "facility" are not defined in the Code. In Gay Alliance Toward Equality v Vancouver Sun the court referred to services as "matters such as restaurants, bars, taverns, service stations, public transportation and public utilities". More specifically, in Ontario, determinations of something constituting a "service", "good", or "facility" include: membership on amateur sports teams, police searches of detainees, admission to a private post-secondary college, and admission to a movie theatre.
+
+
+==== Racial profiling and discrimination ====
+Nassiah v Peel (Regional Municipality) Services Board (2007)
+Ms. Nassiah filed an application under the Ontario Human Rights Code alleging that she had been discriminated against in respect of services because of her race with regard to a police investigation into an allegation of shoplifting.
+The investigating officer was found to have discriminated against Ms. Nassiah when he asked if she spoke English on the basis of her skin colour, used an offensive and profane term to refer to her and threatened to take her to jail, and engaged in a prolonged and heightened investigation whereby Ms. Nassiah was treated with a greater degree of hostility and investigation because she is black, which constituted racial profiling. The commission wrote:
+"Racial profiling is a form of racial discrimination. There is nothing novel in finding that racial profiling is contrary to the Human Rights Code... It is and always has been contrary to the Code for the police to treat persons differently in any aspect of the police process, because of their race, even if race is only one factor in the differential treatment. What is new (in the last two decades) is the mounting evidence that this form of racial discrimination is not the result of isolated acts of individual "bad apples" but part of a systemic bias in many police forces. What is also new is the increasing acceptance by the Courts in Canada that racial profiling by police occurs in Canada and the willingness to scrutinize seemingly "neutral" police behaviour to assess whether it falls within the phenomenon of racial profiling."
+The commission cited a significant amount of jurisprudence and academic studies, as well as expert evidence, on the subject of racial profiling upon which it was concluded that racial profiling does in fact exist and does occur in Canada. And it was found that there was a pattern of evidence supporting a higher level of scrutiny and racial profiling in this case. In addition to the systemic remedies ordered to address issues in police training, Ms. Nassiah was awarded $20,000 for general damages and mental anguish.
+Phipps v Toronto Police Services Board (2009)
+Mr. Phipps filed an application under the Ontario Human Rights Code alleging that he had been discriminated against in respect of services because of his race with regard to an incident with police in 2005. Mr. Phipps was employed by Canada Post and was delivering mail in an affluent neighbourhood. He was wearing his uniform jacket, carrying his mail satchel, and delivering regular mail and flyers. He was stopped by police and had his identity checked, the police then proceeded to trail him and check his identity with a homeowner and a white letter carrier. The police did not check the identity or find suspicious any of the other unfamiliar people in the area, all of whom were white. Applying Nassiah v Peel and other jurisprudence, the tribunal found that this was a clear case of discrimination, specifically racial profiling.
+Sharon Abbott v Toronto Police Services Board (2009)
+In June 2007, Sharon Abbott, a newspaper carrier, filed an application under the Ontario Human Rights Code alleging that she had been discriminated against in respect of services because of her race and sex contrary to the Code, with respect to an incident with police that resulted in her arrest. None of the charges upon which she had been arrested resulted in a conviction when she went before a Justice of the Peace.
+The tribunal noted that "as in many cases alleging racial discrimination, there is no direct evidence that the complainant’s race or colour was a factor in the incident at issue. As a result, the issue of whether the respondents’ actions amount to racial discrimination in violation of the Code falls to be determined in accordance with the well-established principles applicable to circumstantial evidence cases. In the instant case, as in many circumstantial evidence cases, the determination comes down to whether an inference of racial and/or gender discrimination is more probable than the respondents’ explanation".
+The tribunal found that the applicant's race and/or gender played a role in the officer's failure to take steps to try and de-escalate the situation. They recognized that there is an inherent exercise of power and power imbalance in an interaction between a police officer and the public, and that this may be inappropriately exacerbated when it is combined with a racial and/or gender power dynamic. The tribunal cited a decision by the Supreme Court of Canada, which recognized that racial discrimination most often does not operate on a conscious basis, but rather emanates from unconscious attitudes and belief systems. In a historical context, some of these attitudes and belief systems include the fact that black persons (and other groups) are expected to "know their place" and that any black person who talks back or refuses to comply is to be regarded as "uppity" and needs to be dealt with harshly.
+Specifically, it was found that the officer was not reasonable in his interaction with Ms. Abbott and that his actions were consistent with a manifestation of racism whereby a "white person in a position of authority has an expectation of docility and compliance from a racialized person, and imposes harsh consequences if that docility and compliance is not provided" and this directly led to the unnecessary arrest and overcharging of Ms. Abbott.
+The tribunal awarded Ms. Abbott $5,000 in damages as compensation for the injury to her dignity and self-respect and declined to award any damages for the injuries that she sustained during the arrest as they recognized her role in escalating the incident in that respect.
+Toronto police spokesperson Mark Pugash argued that the Tribunal's decision eliminated any possible defence against a racial profiling allegation, stating that "this should scare anyone who could be on the receiving end of such an allegation because it doesn't seem as though you can defend yourself," pointing out the tribunal stated there was "no direct evidence that the complainant's race or colour was a factor in the incident."
+
+
+=== Accommodation ===
+The Ontario Human Rights Code provides that "[e]very person has a right to equal treatment with respect to the occupancy of accommodation, without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability or the receipt of public assistance." This right is applicable to emancipated minors. A person also has the right under the Code to be free from harassment by the landlord, agent of the landlord, or an occupant of the same building on any of the above grounds.
+Discrimination is shown in cases where there is:
+
+Denial of accommodation based on prohibited grounds
+Denial of accommodation may result from refusal of accommodation to a person with an identifiable personal characteristic couple with subsequent verification that the accommodation is still available
+Denial of accommodation may result from non-removal of barriers to the accessibility of the premises to disabled persons
+Differential treatment of a prospective purchaser based on an identifiable personal characteristic
+Imposition of different rules on an individual with an identifiable personal characteristic, as compared to other tenants
+Adoption of discriminatory tenant selection criteria based on prohibited grounds
+Restriction of the use of facilities based on prohibited grounds
+Otherwise mistreating a tenant on prohibited grounds
+
+
+=== Employment ===
+The Ontario Human Rights Code provides that "[e]very person has a right to equal treatment with respect to employment without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, record of offences, marital status, family status or disability."
+An employer's refusal to employ a qualified job applicant on prohibited grounds is clearly discriminatory with respect to employment. It is also clearly discriminatory with respect to employment to refuse to continue current employment (meaning to dismiss, demote, retire, deny any benefit or promotion, etc.) based on prohibited grounds. However, any differential treatment based on prohibited grounds may constitute discrimination, including dress codes and appearance requirements.
+
+
+==== BFOR/Q defence ====
+A bona fide occupational requirement (BFOR) or bona fide occupational qualification (BFOQ) (abbreviated BFOR/Q) is a quality or attribute that employers are permitted to consider when making decisions about hiring or retaining employees. If it is necessary to raise BFOR/Q as a defence, the quality in question is one that would otherwise constitute unlawful discrimination in some respect. In order to succeed in a BFOR/Q defence, an employer must satisfy the Meiorin/Grismer test. This requires that they be able to prove (after a prima facie case of discrimination has been made out by the employee):
+
+The employer adopted the standard for a purpose/goal that is rationally connected to the performance of the employment concerned; (objective test)
+The employer adopted the standard in and honest and good faith belief that it was necessary to the fulfillment of that legitimate work-related purpose; and
+The standard is reasonably necessary to accomplish its purpose or goal, in the sense that the defendant cannot accommodate persons with the characteristics of the claimant without incurring undue hardship
+This test has been codified in a number of provisions of the Ontario Human Rights Code. However, it cannot be raised as a defence to harassment as there can be no legitimate excuse for harassment under human rights law.
+
+
+=== Retaliation/reprisal ===
+The Ontario Human Rights Code provides that "[e]very person has a right to claim and enforce his or her rights under this Act, to institute and participate in proceedings under this Act and to refuse to infringe a right of another person under this Act, without reprisal or threat of reprisal for so doing." It is discriminatory for any respondent (including an employer) to retaliate against an applicant for pursuing a human rights complaint. A retaliation complaint may be upheld, even if the original complaint is dismissed.
+Morgan v Herman Miller Canada Inc (2013)
+Mr. Morgan filed an application under the Ontario Human Rights Code alleging that he had been discriminated against in respect of employment because of his race and for reprisal for making a human rights complaint.
+The applicant raised a complaint about human rights issues with a member of the management of his company. Specifically, he felt that he was being mistreated on the basis of his race, by being disproportionately required to perform menial tasks. These complaints were never investigated, never followed up on, and his employment was terminated a month after he made the complaint, allegedly for cause.
+The company claimed he was fired for spreading false information. However, at no point did anyone ever speak to the applicant to provide him with an opportunity to address the allegations or instruct him to stop, allegedly, spreading the misinformation. The tribunal found that there was absolutely no evidence to support that the applicant was terminated for this reason and that the respondents had decided to terminate him rather than address his human rights complaint.
+Therefore, although Mr. Morgan did not have a claim for discrimination, as there was no evidence to support that the company was in fact treating him in a discriminatory manner, the tribunal found that he did have a claim for reprisal as he was terminated in response to making a human rights complaint, which his employer was obliged to investigate. The tribunal ordered that Herman Miller Canada pay $56,000 in compensation for lost wages (14 months pay) and $15,000 for injury to dignity and self-respect.
+
+
+=== Freedom of expression ===
+Complaint Filed Against Maclean's Magazine (2008)
+A human rights complaint against Maclean's magazine was filed in December 2007 by Mohamed Elmasry of the Canadian Islamic Congress with the Ontario Human Rights Commission. Maclean's magazine was accused of publishing eighteen Islamophobic articles between January 2005 and July 2007. The articles in question included a column by Mark Steyn titled "The Future Belongs to Islam". In April 2008, the OHRC ruled that it did not have jurisdiction to hear the complaint based on the fact that the claim was alleging that the content of the magazine, not the magazine's refusal to provide space for a rebuttal, violated their rights, and the Ontario Human Rights Code does not give the Commission jurisdiction to deal with the content of magazine articles. However, the statement released by the commission did raise concerns about the article and the need for discussion and a comprehensive approach to the issue of freedom of expression in the context of human rights.
+In a subsequent interview with the National Post, Chief Commissioner Barbara Hall stated that "When the media writes, it should exercise great caution that it's not promoting stereotypes that will adversely impact on identifiable groups. I think one needs to be very careful when one speaks in generalities, that in fact one is speaking factually about all the people in a particular group." In response, the editors of Maclean's denounced Commissioner Hall and her staff for what they called the "zealous condemnation of their journalism" and stated that in her press release "[Hall] cited no evidence, considered no counter-arguments, and appointed herself prosecutor, judge and jury in one fell swoop." Maclean's accused every human rights commission in the country for "morphing out of their conciliatory roles to become crusaders working to reshape journalistic discourse in Canada."
+Mark Steyn, who wrote the article in Maclean's that the complaint was based on, also sharply criticized Hall and the OHRC, commenting that "Even though they (the OHRC) don't have the guts to hear the case, they might as well find us guilty."
+
+
+=== Abuse of process and costs ===
+Lisa MacDonald v Downtown Health Club for Women (2009)
+Lisa MacDonald filed an application under the Ontario Human Rights Code alleging that she had been discriminated against in respect of services on the basis of sex with respect to a request for admission to a women's-only fitness facility in 2006.
+In 2006, Ms. MacDonald had visited the Downtown Health Club for Women in St. Catharines, Ontario, and sought to become a member. The owner of the facility, John Fulton claims he was concerned that she was a pre-operative transsexual. Fulton argued that the Code allows service providers to restrict access to facilities "to persons of the same sex on the ground of public decency." And that in his opinion, the display of male genitalia, even on someone who self-identifies as a woman, could be construed as indecent by other women at his gym. Fulton claimed he never denied Ms. Robinson membership and that she was welcome to use the Club once the operation was completed. However, according to the Ontario Human Rights Commission, the Code prohibits discrimination on the basis of sex, including gender identity, and there is no distinction between transsexuals who are at different stages of transition.
+The case was scheduled for a hearing in November 2009. However, Ms. MacDonald withdrew her application without explanation in August 2009. Fulton, the respondent, sought an order of costs against Ms. MacDonald to "compensate [him] for the loss of dignity and stress associated with the accusation of discrimination and the time and money lost in preparing a defence." Specifically with regard to injury to dignity, it was asserted that the respondent had been stigmatized as having discriminated against the applicant and deprived of the opportunity to respond and have the allegations dismissed.
+Administrative tribunals, as creatures of statute, do not have the power to award costs unless this power is granted to them through legislation. The adjudicator found that under s.17.1 of the Statutory Powers Procedure Act, the Ontario Human Rights Tribunal does have the power to award costs in some circumstances. The requirements for the Tribunal to exercise the power to award costs were not met in this case and therefore the adjudicator had no authority to make a costs award.
+The respondent alternatively requested that the adjudicator exercise their discretion and make a monetary award against the applicant, as he alleged that withdrawing the application constituted an abuse of the tribunal's process. The adjudicator found that this was merely another way to frame the request for costs and that, regardless, the applicant had not in any way abused the process. On the basis of the respondent's own evidence, the respondent did delay in accepting Ms. MacDonald's application for a gym membership and in his view would have been justified in refusing it outright. The application therefore raised important and novel questions about the scope of the Code and its application to transgender individuals. Further, it was found that the respondents may have caused unnecessary legal costs by raising spurious preliminary issues, including constitutional arguments which they later abandoned and extensive production of the applicant's entire medical history, some of which was completely irrelevant to the issues in the application.
+
+
+== References ==
+
+
+== External links ==
+Official website
+Ontario Human Rights Code
+Rules of Procedure, Practice Directions, and Policies
